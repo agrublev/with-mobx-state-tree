@@ -22,7 +22,6 @@ Download the example:
 curl https://codeload.github.com/zeit/next.js/tar.gz/canary | tar -xz --strip=2 next.js-canary/examples/with-mobx-state-tree
 cd with-mobx-state-tree
 ```
-
 Install it and run:
 
 ```bash
