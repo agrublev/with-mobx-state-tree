@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport SampleComponent from '../components/SampleComponent';\nexport default (function () {\n  return __jsx(SampleComponent, {\n    title: \"Index Page\",\n    linkTo: \"/other\"\n  });\n});","map":null,"metadata":{},"sourceType":"module"}

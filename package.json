@@ -1,0 +1,25 @@
+{
+  "name": "with-mobx-state-tree",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "build:w": "ANALYZE=true yarn build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "antd": "^3.26.0",
+    "mobx": "3.3.1",
+    "mobx-react": "^4.0.4",
+    "mobx-state-tree": "1.0.1",
+    "momentjs": "^2.0.0",
+    "next": "^9.1.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.1.2",
+    "@next/bundle-analyzer": "^9.1.4"
+  },
+  "license": "ISC"
+}
